@@ -12,13 +12,13 @@
 #minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "en-US"
-title                    : "Sandesh Bhat"
+title                    : "Anil Nelakanti"
 title_separator          : "-"
-name                     : &name "Sandesh Bhat"
-description              : &description "Ph.D. candidate, System Engineering program, Ira A. Fulton School of Engineering, Arizona State University"
-url                      : https://mrsandeshbhat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Anil Nelakanti"
+description              : &description "Applied science at Amazon"
+url                      : https://aniln.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mrsandeshbhat/mrsandeshbhat.github.io"
+repository               : "aikn/aniln.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sandesh Bhat"
-  avatar           : "sandesh.jpg"
-  bio              : "Ph.D. candidate, System Engineering program, Ira A. Fulton School of Engineering, Arizona State University"
-  location         : "Phoenix, Arizona, USA"
-  employer         : "Arizona State University"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Dx9aVjgAAAAJ"
-  email            : "sandesh.bhat@asu.edu"
+  name             : "Anil Nelakanti"
+  avatar           : "aniln.png"
+  bio              : "ML applied to NLP and TTS including language models, machine translation, text-to-speech, search and retrieval."
+  location         : "Bangalore, India"
+  employer         : #""
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=Dx9aVjgAAAAJ"
+  email            : "first.last@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "mrsandeshbhat"
+  github           : #"mrsandeshbhat"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "mrsandeshbhat"
-  orcid            : "https://orcid.org/0000-0002-8989-0235"
+  linkedin         : #"mrsandeshbhat"
+  orcid            : #"https://orcid.org/0000-0002-8989-0235"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
