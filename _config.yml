@@ -83,8 +83,8 @@ analytics:
 # Site Author
 author:
   name             : "Anil Nelakanti"
-  avatar           : "aniln.png"
-  bio              : "ML applied to NLP and TTS including language models, machine translation, text-to-speech, search and retrieval."
+  avatar           : "profile.jpeg"
+  bio              : "ML applied mostly to NLP, TTS and search."
   location         : "Bangalore, India"
   employer         : #""
   googlescholar    : #"https://scholar.google.com/citations?hl=en&user=Dx9aVjgAAAAJ"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "aikn"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
