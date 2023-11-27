@@ -1,7 +1,7 @@
 ---
 title: 'MT and TTS directions'
 date: 2023-11-20
-permalink:
+permalink: /posts/nlp/mt-tts-directions.md
 tags:
   - MT
   - TTS
@@ -9,7 +9,7 @@ tags:
 ---
 
 
-The focus was largely on editing of machine translation (MT) outputs to improve their quality. This included both interactive and automatic post-editing scenarios. The former includes user interactions to help tailor the outputs for better quality while the latter targets fixing specific errors patterns of the base MT model.
+My focus was largely on editing of machine translation (MT) outputs to improve their quality. This included both interactive and automatic post-editing scenarios. The former includes user interactions to help tailor the outputs for better quality while the latter targets fixing specific errors patterns of the base MT model.
 
 * Interactive post-editing for verbosity controlled translation with Prabhakar Gupta, Anil Nelakanti, Grant M. Berry, Abhishek Sharma, in COLING Conference, 2022. Available at ACL.
 * Adapting Neural Machine Translation for Automatic Post-Editing with Abhishek Sharma, Prabhakar Gupta, in Conference on Machine Translation (WMT) 2021. Available at ACL.
