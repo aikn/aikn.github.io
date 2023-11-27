@@ -3,7 +3,7 @@ title: 'MT and TTS directions'
 collection: talks
 date: 2023-11-20
 type: "Retro"
-permalink: /posts/nlp-directions.md
+permalink: /talks/nlp-directions
 date: 2023-11-20
 tags:
   - MT
