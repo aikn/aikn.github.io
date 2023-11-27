@@ -1,7 +1,7 @@
 ---
 title: 'MT and TTS directions'
-date: 2017-06-05
-permalink: /posts/2017/06/marl-papers/
+date: 2023-11-20
+permalink:
 tags:
   - MT
   - TTS
