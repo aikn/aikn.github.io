@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Anil Nelakanti"
-  avatar           : "profile.jpeg"
+  avatar           : "foo-bar-identity.jpg" # "profile.jpeg"
   bio              : "ML applied mostly to NLP, TTS and search."
   location         : "Bangalore, India"
   employer         : #""
