@@ -1,8 +1,8 @@
 ---
-title: 'MT and TTS directions'
+title: 'My NLP work'
 collection: talks
 date: 2023-11-20
-type: "Retro"
+teaser: MT and TTS direction
 permalink: /talks/nlp-directions
 date: 2023-11-20
 tags:
@@ -12,7 +12,10 @@ tags:
 ---
 
 My NLP and TTS works explored related but complementary directions.
-My focus was largely on editing of machine translation (MT) outputs to improve their quality. This included both interactive and automatic post-editing scenarios. The former includes user interactions to help tailor the outputs for better quality while the latter targets fixing specific errors patterns of the base MT model.
+In NLP, it was post-editing MT outputs either automatic or interactive but for better quality.
+In TTS, it was editing for more emotive speech.
+
+Interactive editing of MT outputs includes user interactions to help tailor the outputs for better quality while the latter targets fixing specific errors patterns of the base MT model.
 
 * Interactive post-editing for verbosity controlled translation with Prabhakar Gupta, Anil Nelakanti, Grant M. Berry, Abhishek Sharma, in COLING Conference, 2022. Available at ACL.
 * Adapting Neural Machine Translation for Automatic Post-Editing with Abhishek Sharma, Prabhakar Gupta, in Conference on Machine Translation (WMT) 2021. Available at ACL.
