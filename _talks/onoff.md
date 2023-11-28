@@ -1,10 +1,10 @@
 ---
-title: 'Some calibration tricks'
+title: 'Online/offline metric mismatch'
 collection: talks
 date: 2023-11-20
-teaser: and other extensions
+teaser: and their alignment
 permalink: /talks/nlp-directions
-date: 2023-11-20
+date: 2023-11-25
 tags:
   - MT
   - TTS
