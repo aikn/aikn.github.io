@@ -2,7 +2,7 @@
 title: 'Some NLP results'
 collection: talks
 date: 2023-11-20
-teaser: and MT/TTS directions
+teaser: MT and TTS direction
 permalink: /talks/nlp-directions
 date: 2023-11-20
 tags:
