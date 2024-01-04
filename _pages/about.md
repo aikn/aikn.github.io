@@ -12,13 +12,13 @@ My interests lie in machine learning and its applications to various perceptory 
 
 Education
 -----
-* Doctorate, Universite de Paris VI, 2014
-* Masters, Institut Polytechnique de Grenoble, 2010
+* Doctorate, Universite de Paris VI / INRIA Paris, 2014
+* Masters, Institut Polytechnique de Grenoble / INRIA Grenoble, 2010
 * Bachelors, Interational Institute of Information Technology Hyderabad, 2008
 
 Publications (and the unpublished)
 ----
-* ParrotTTS: Text-to-speech synthesis exploiting disentangled self-supervised representations under review in ACL ARR, 2023.
+* Text-to-speech synthesis exploiting disentangled self-supervised representations under review in ACL ARR, 2023.
 * Empathic machines: using intermediate features as levers to emulate emotions in text-to-speech system with Saiteja Kosgi, Sarath Sivaprasad, Niranjan Pedanekar, Vineet Gandhi in NAACL Conference 2022. [On ACL](https://aclanthology.org/2022.naacl-main.26/).
 * Interactive post-editing for verbosity controlled translation with Prabhakar Gupta, Anil Nelakanti, Grant M. Berry, Abhishek Sharma, in COLING Conference, 2022. [On ACL](https://aclanthology.org/2022.coling-1.454/).
 * Adapting Neural Machine Translation for Automatic Post-Editing
