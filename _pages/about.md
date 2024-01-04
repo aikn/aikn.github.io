@@ -38,3 +38,8 @@ Patents
 
 * Automated quality assessment of translations with Prabhkar Gupta, granted in US to Amazon Technologies.
 * Language model with structured penalty with Guillaume Bouchard, Cedric Ar- chambeau, Francis Bach and Julien Mairal, granted in US and EU to Xerox Corp.
+* Salient And Non-Salient Regions Detection In Digital Entertainment Content Video Frames, filed in US by Amazon Technologies.
+* Audio-lip movement correlation measurement for dubbed content, filed in US by Amazon Technologies.
+* Multi-task and Multi-lingual Emotion Mismatch Detection for Automated Dubbing, filed in US by Amazon Technologies.
+* Neural Approach for Language Agnostic Song Detection and Identification, filed in US by Amazon Technologies.
+*	Method for selection of most suitable voice for a video content, filed in US by Amazon Technologies.
