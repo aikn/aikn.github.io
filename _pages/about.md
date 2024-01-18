@@ -18,28 +18,29 @@ Education
 
 Publications (and the unpublished)
 ----
-* Text-to-speech synthesis using self-supervised models, under review.
-* Empathic machines: using intermediate features as levers to emulate emotions in text-to-speech system with Saiteja Kosgi, Sarath Sivaprasad, Niranjan Pedanekar, Vineet Gandhi in NAACL Conference 2022. [On ACL](https://aclanthology.org/2022.naacl-main.26/).
-* Interactive post-editing for verbosity controlled translation with Prabhakar Gupta, Anil Nelakanti, Grant M. Berry, Abhishek Sharma, in COLING Conference, 2022. [On ACL](https://aclanthology.org/2022.coling-1.454/).
-* Adapting Neural Machine Translation for Automatic Post-Editing
-with Abhishek Sharma, Prabhakar Gupta, in Conference on Machine Translation (WMT) 2021. [On ACL](https://aclanthology.org/2021.wmt-1.35/).
-* Object-level context modeling for scene clsasification with Context-CNN with Syed Ashar Javed in CVPR Workshsop 2017. [On arxiv](https://arxiv.org/abs/1705.04358).
-* Structured penalties for log-linear language models
-with Cedric Archambeau, Julien Mairal, Francis Bach and Guillaume Bouchard, in EMNLP Conference 2013. [On ACL](https://aclanthology.org/D13-1024/). [Oral slides](https://drive.google.com/file/d/1yzhVnA5R7I51EJ3sB5EhmpQfg6_4QR26/).
-* Tree learning strategies for large-scale taxonomies with Cedric Archambeau, Francis Bach and Guillaume Bouchard. [Draft](https://drive.google.com/file/d/1wyFinq6iAyhDbP4eHZG-6zcMEvj7TQoh/).
-* Generalized linear language models
-with Cedric Archambeau, Francis Bach and Guillaume Bouchard. [Draft](https://drive.google.com/file/d/1MyaX_t9qBwtvhhLrgC659vP6yLWIyDrF/).
-* Planar scene modeling from quasiconvex subproblems Visesh Chari, Anil Nelakanti, Chetan Jakkoju, C.V. Jawahar in ACCV 2009. [On ACM](https://dl.acm.org/doi/abs/10.1007/978-3-642-12304-7_4).
-* Path planning for visual servoing and navigation using convex optimization Abdul Hafez, Anil Nelakanti, C.V. Jawahar, in the Journal of Robotics and Automation, 2014. [On web](https://drive.google.com/file/d/1YATahupD_2UViEzTakyJE7Y75-MRg6gb/).
-* Path planning approach to visual servoing:convex optimization based solution Abdul Hafez, Anil Nelakanti, C.V. Jawahar, in Proceedings of the Intelligent Robots and Systems (IROS), 2008. [On IEEE.](https://ieeexplore.ieee.org/abstract/document/4399590)
+* Text-to-speech synthesis using self-supervised models,
+* _ParrotTTS: Text-to-speech synthesis exploiting disentangled self-supervised representations_ with Neil Shah, Saiteja Kosgi, Vishal Tambrahallia, Neha Sahipjohn, Niranjan Pedanekar, and Vineet Gandhi in EACL Conference 2024.
+* _Empathic machines: using intermediate features as levers to emulate emotions in text-to-speech system_ with Saiteja Kosgi, Sarath Sivaprasad, Niranjan Pedanekar, Vineet Gandhi in NAACL Conference 2022 [On ACL](https://aclanthology.org/2022.naacl-main.26/).
+* _Interactive post-editing for verbosity controlled translation_ with Prabhakar Gupta, Anil Nelakanti, Grant M. Berry, Abhishek Sharma, in COLING Conference, 2022. [On ACL](https://aclanthology.org/2022.coling-1.454/).
+* _Adapting neural machine translation for automatic post-editing_ with Abhishek Sharma, Prabhakar Gupta, in Conference on Machine Translation (WMT) 2021. [On ACL](https://aclanthology.org/2021.wmt-1.35/).
+* _Object-level context modeling for scene clsasification with Context-CNN_ with Syed Ashar Javed in CVPR Workshsop 2017. [On arxiv](https://arxiv.org/abs/1705.04358).
+* _Structured penalties for log-linear language models_ with Cedric Archambeau, Julien Mairal, Francis Bach and Guillaume Bouchard, in EMNLP Conference 2013. [On ACL](https://aclanthology.org/D13-1024/). [Oral slides](https://drive.google.com/file/d/1yzhVnA5R7I51EJ3sB5EhmpQfg6_4QR26/).
+* _Tree learning strategies for large-scale taxonomies_ with Cedric Archambeau, Francis Bach and Guillaume Bouchard. [Draft](https://drive.google.com/file/d/1wyFinq6iAyhDbP4eHZG-6zcMEvj7TQoh/).
+* _Generalized linear language models_ with Cedric Archambeau, Francis Bach and Guillaume Bouchard. [Draft](https://drive.google.com/file/d/1MyaX_t9qBwtvhhLrgC659vP6yLWIyDrF/).
+* _Planar scene modeling from quasiconvex subproblems_ with Visesh Chari, Chetan Jakkoju, C.V. Jawahar in ACCV 2009. [On ACM](https://dl.acm.org/doi/abs/10.1007/978-3-642-12304-7_4).
+* _Path planning for visual servoing and navigation using convex optimization_ with Abdul Hafez, C.V. Jawahar, in the Journal of Robotics and Automation, 2014. [On web](https://drive.google.com/file/d/1YATahupD_2UViEzTakyJE7Y75-MRg6gb/).
+* _Path planning approach to visual servoing:convex optimization based solution_ with Abdul Hafez, C.V. Jawahar, in Proceedings of the Intelligent Robots and Systems (IROS), 2008. [On IEEE.](https://ieeexplore.ieee.org/abstract/document/4399590)
 
 Patents
 ------
-
-* Automated quality assessment of translations with Prabhkar Gupta, granted in US to Amazon Technologies.
-* Language model with structured penalty with Guillaume Bouchard, Cedric Archambeau, Francis Bach and Julien Mairal, granted in US and EU to Xerox Corp.
-* Salient And Non-Salient Regions Detection In Digital Entertainment Content Video Frames, filed in US by Amazon Technologies.
-* Audio-lip movement correlation measurement for dubbed content, filed in US by Amazon Technologies.
-* Multi-task and Multi-lingual Emotion Mismatch Detection for Automated Dubbing, filed in US by Amazon Technologies.
-* Neural Approach for Language Agnostic Song Detection and Identification, filed in US by Amazon Technologies.
-*	Method for selection of most suitable voice for a video content, filed in US by Amazon Technologies.
+Filed and granted
+--------
+* _Automated quality assessment of translations_, granted in US to Amazon Technologies.
+* _Language model with structured penalty_, granted in US and EU to Xerox Corp.
+Filed and pending
+--------
+* _Salient region detection in digital entertainment content_, filed in US.
+* _Audio-lip movement correlation measurement for dubbed content_, filed in US.
+* _Multi-task and multi-lingual emotion mismatch detection for automated dubbing_, filed in US.
+* _Language agnostic song detection and identification_, filed in US.
+* _Voice selection from visual and text character cues for digital content_, filed in US.
