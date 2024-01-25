@@ -1,10 +1,9 @@
 ---
 title: 'Some NLP results'
 collection: talks
-date: 2023-11-20
+date: 2024-01-25
 teaser: and MT/TTS directions
 permalink: /talks/nlp-directions
-date: 2023-11-20
 tags:
   - MT
   - TTS
@@ -12,10 +11,10 @@ tags:
 ---
 
 
-Machine translation (MT) and text-to-speech (TTS) were the two problems that I worked on and in both cases the a related theme focussing on improved interactivity and controllable modelling, and better sample efficiency in training.
+Machine translation (MT) and text-to-speech (TTS) were the two problems that I have closely worked on and in both cases on very related themes focussing on improved interactivity and controllable modelling, and better sample efficiency in training.
 In MT, this involved interactive and automatic post-editing of model outputs for better quality while controlling various other attributes.
 Attributes like verbosity or readability of the generated translation, handling ambiguity in context like gender, handling resource imbalance when working together with both low-resource and high-resource languages.
-Similarly in TTS the focus was on improving emotiveness of generated speech, to make them closed to humans for conversational HCI systems and improving data efficiency for scaling to new languages.
+Similarly in TTS the focus was on improving emotiveness of generated speech, to make outputs sound closer to that of humans for conversational HCI systems and improving data efficiency for scaling to new languages.
 
 
 Our experience (see [1]) is that as the base models become bigger and stronger, which is increasingly the case in practice now along LLMs, there are diminishing returns to gain from automatic post-editing. 
