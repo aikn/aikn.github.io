@@ -18,7 +18,7 @@ Education
 
 Publications (and the unpublished)
 ----
-* _ParrotTTS: Text-to-speech synthesis exploiting disentangled self-supervised representations_ with Neil Shah, Saiteja Kosgi, Vishal Tambrahallia, Neha Sahipjohn, Niranjan Pedanekar, and Vineet Gandhi in EACL Conference 2024.
+* _ParrotTTS: Text-to-speech synthesis exploiting disentangled self-supervised representations_ with Neil Shah, Saiteja Kosgi, Vishal Tambrahallia, Neha Sahipjohn, Niranjan Pedanekar, and Vineet Gandhi in EACL Conference 2024. [On Arxiv](https://arxiv.org/abs/2303.01261v2).
 * _Empathic machines: using intermediate features as levers to emulate emotions in text-to-speech system_ with Saiteja Kosgi, Sarath Sivaprasad, Niranjan Pedanekar, Vineet Gandhi in NAACL Conference 2022 [On ACL](https://aclanthology.org/2022.naacl-main.26/).
 * _Interactive post-editing for verbosity controlled translation_ with Prabhakar Gupta, Anil Nelakanti, Grant M. Berry, Abhishek Sharma, in COLING Conference, 2022. [On ACL](https://aclanthology.org/2022.coling-1.454/).
 * _Adapting neural machine translation for automatic post-editing_ with Abhishek Sharma, Prabhakar Gupta, in Conference on Machine Translation (WMT) 2021. [On ACL](https://aclanthology.org/2021.wmt-1.35/).
