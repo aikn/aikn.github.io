@@ -22,7 +22,7 @@ Publications (and the unpublished)
 * _Empathic machines: using intermediate features as levers to emulate emotions in text-to-speech system_ with Saiteja Kosgi, Sarath Sivaprasad, Niranjan Pedanekar, Vineet Gandhi in NAACL Conference 2022 [On ACL](https://aclanthology.org/2022.naacl-main.26/).
 * _Interactive post-editing for verbosity controlled translation_ with Prabhakar Gupta, Anil Nelakanti, Grant M. Berry, Abhishek Sharma, in COLING Conference, 2022. [On ACL](https://aclanthology.org/2022.coling-1.454/).
 * _Adapting neural machine translation for automatic post-editing_ with Abhishek Sharma, Prabhakar Gupta, in Conference on Machine Translation (WMT) 2021. [On ACL](https://aclanthology.org/2021.wmt-1.35/).
-* _Object-level context modeling for scene clsasification with Context-CNN_ with Syed Ashar Javed in CVPR Workshsop 2017. [On arxiv](https://arxiv.org/abs/1705.04358).
+* _Object-level context modeling for scene classification with Context-CNN_ with Syed Ashar Javed in CVPR Workshsop 2017. [On arxiv](https://arxiv.org/abs/1705.04358).
 * _Structured penalties for log-linear language models_ with Cedric Archambeau, Julien Mairal, Francis Bach and Guillaume Bouchard, in EMNLP Conference 2013. [On ACL](https://aclanthology.org/D13-1024/). [Oral slides](https://drive.google.com/file/d/1yzhVnA5R7I51EJ3sB5EhmpQfg6_4QR26/).
 * _Tree learning strategies for large-scale taxonomies_ with Cedric Archambeau, Francis Bach and Guillaume Bouchard. [Draft](https://drive.google.com/file/d/1wyFinq6iAyhDbP4eHZG-6zcMEvj7TQoh/).
 * _Generalized linear language models_ with Cedric Archambeau, Francis Bach and Guillaume Bouchard. [Draft](https://drive.google.com/file/d/1MyaX_t9qBwtvhhLrgC659vP6yLWIyDrF/).
@@ -33,12 +33,13 @@ Publications (and the unpublished)
 Patents
 ------
 ### Filed and granted
+* _Emotion mismatch detection for automated dubbing_, granted in US to Amazon Technologies.
+* _Song generation using neural network_ granted in US to Amazon Technologies.
+* _Voice content selection for video content_, filed in US to Amazon Technologies.
 * _Automated quality assessment of translations_, granted in US to Amazon Technologies.
 * _Language model with structured penalty_, granted in US and EU to Xerox Corp.
 
 ### Filed and pending
 * _Salient region detection in digital entertainment content_, filed in US.
 * _Audio-lip movement correlation measurement for dubbed content_, filed in US.
-* _Multi-task and multi-lingual emotion mismatch detection for automated dubbing_, filed in US.
 * _Language agnostic song detection and identification_, filed in US.
-* _Voice selection from visual and text character cues for digital content_, filed in US.

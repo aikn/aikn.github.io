@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Anil Nelakanti"
   avatar           : "pasp.png" # "bio-photo.jpg" # "profile.jpeg"
-  bio              : "ML applied mostly to NLP, TTS and search."
+  bio              : "ML & DL mostly applied to NLP and Speech. Some multi-agent simulations."
   location         : "Bangalore, India"
   employer         : #""
   googlescholar    : #"https://scholar.google.com/citations?hl=en&user=Dx9aVjgAAAAJ"
