@@ -35,11 +35,11 @@ If found mutually suitable, we can see if available funds can be repurposed to h
   * Please drop a note by email and we can set up some time to discuss. 
 
 ### Doctoral candidates
-There is one open position and the topic can be anything around general ML/DL/RL or applications to NLP/Speech, information extraction or retrieval, etc. This comes with an option to top-up the stiped provided by the university to be on par with the best in the country and for exceptional cases match industry salary of engineers with similar skills.
-  * Please fill [this form](shorturl.at/BCYl3) or drop a note by email and we can set up some time to discuss further.
+Currently there is one open position and the topic can be anything around general ML/DL/RL or applications to NLP/Speech, information extraction or retrieval, etc. The admission process is as laid down by the institute and is supported by the university stipend. However, there is an option to use alternative sources of funding to top-up the university stiped to be on par with the highest granted in the country (possibly PMRF) and for exceptional cases match industry salary of engineers with similar skills.
+  * Please fill [this form](shorturl.at/BCYl3) and drop a note by email and we can set up some time to discuss further.
 
 ### Students not enrolled at IIIT-H
 If you have strong skills relevant to areas of interest listed above and can work with us for a considerable period, please consider applying for one of the following positions. Unfortunately, engagements shorter than 6 months are not possible at this time.
   + Internship or thesis project: Admits those enrolled in undergraduate or masters programs with availability for 6 months or longer.
   + Pre-doctoral or research assistants: Must have finished undergraduate program and available for at least a year of work. Serves as a gap year for those exploring opportunities. Pre-doctoral are typically those interested in a PhD program at IIIT Hyderabad or elsewhere while research assistants might be preparing for industry jobs as well and keen on developing strong engineering skills or alternatively industry folks looking for a gap to explore science-heavy roles.
-  * Please fill [this form](shorturl.at/BCYl3).
+  * Please fill [this form](shorturl.at/BCYl3), no email needed. Applications applied through the form will be processed by the team at regular cadence.
