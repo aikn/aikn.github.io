@@ -11,8 +11,8 @@ tags:
   - AI policy
 ---
 
-I will be joining the faculty at IIIT Hyderabad in July 2025 and we am actively looking to hire for various positions with some collaborators.
-Some of these positions will open officially a few months down the line but please drop a note if you are interested and we will reach out when appropriate.
+I will be joining the faculty at IIIT Hyderabad in July 2025 and we are actively looking to fill for various positions.
+Some of these positions will open officially a few months down the line but please fill the form below or drop a note as indicated below if you are interested and we will reach out when appropriate.
 
 1. Deep learning track (DLM). 
   * Open to a breadth of DL tasks including data and parameter efficiency, domain adaptation and low-resource setting, multi-modality involving speech and text, controllable models, optimized inference.
