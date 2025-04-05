@@ -2,7 +2,7 @@
 title: 'Academic openings'
 collection: talks
 date: 2024-04-06
-teaser: students, researchers and collaborators
+teaser: inviting students, researchers and collaborators
 permalink: /talks/openings
 tags:
   - ML and DL
