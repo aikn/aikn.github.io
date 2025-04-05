@@ -3,7 +3,7 @@ title: 'Academic openings'
 collection: talks
 date: 2024-04-06
 teaser: students, researchers and collaborators
-permalink: /talks/nlp-directions
+permalink: /talks/openings
 tags:
   - ML and DL
   - Speech and NLP
