@@ -36,6 +36,7 @@ If found mutually suitable, we can see if available funds can be repurposed to h
 
 ### Doctoral candidates
 Currently there is one open position and the topic can be anything around general ML/DL/RL or applications to NLP/Speech, information extraction or retrieval, etc. The admission process is as laid down by the institute and is supported by the university stipend. However, there is an option to use alternative sources of funding to top-up the university stiped to be on par with the highest granted in the country (possibly PMRF) and for exceptional cases match industry salary of engineers with similar skills.
+Part-time PhD for those working in the industry is also an option and highly encouraged for very motivated cadidates with systems/engineering/product experience.
   * Please fill [this form](shorturl.at/BCYl3) and drop a note by email and we can set up some time to discuss further.
 
 ### Students not enrolled at IIIT-H
