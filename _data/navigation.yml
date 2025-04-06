@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Notes"
-    url: /talks/
-
   - title: "Courses"
     url: /teaching/
 
   - title: "Talks"
     url: /slides/
+
+  - title: "Notes"
+    url: /talks/
 
   # - title: "Awards & Honors"
   #   url: /awards/
