@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /cv/
 author_profile: false
 redirect_from:
-  - /talks/
+  - /slides/
 ---
 
 {% include base_path %}
