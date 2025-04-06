@@ -1,5 +1,5 @@
 ---
-title: 'CSE474 IIITH 2025 Monsoon: Information extraction and retrieval'
+title: 'CSE474 | Monsoon 2025 IIITH | Information extraction and retrieval'
 collection: teaching
 date: 2024-01-25
 teaser:
