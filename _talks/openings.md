@@ -1,5 +1,5 @@
 ---
-title: 'Academic openings'
+title: 'Open positions'
 collection: talks
 date: 2024-04-06
 teaser: students and collaborators

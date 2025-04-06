@@ -1,8 +1,8 @@
 ---
 <!-- layout: archive -->
 title: "Talks"
-permalink: /cv/
-author_profile: false
+permalink: /slides/
+author_profile: true
 redirect_from:
   - /slides/
 ---
