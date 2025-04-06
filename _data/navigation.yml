@@ -6,8 +6,8 @@ main:
   - title: "Courses"
     url: /teaching/
 
-  # - title: "Publications"
-  #  url: /publications/
+  - title: "Talks"
+    url: /cv/
 
   # - title: "Awards & Honors"
   #   url: /awards/
