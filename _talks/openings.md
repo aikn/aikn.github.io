@@ -2,7 +2,7 @@
 title: 'Open positions'
 collection: talks
 date: 2024-04-06
-teaser: students and collaborators
+teaser: seeking students and collaborators
 permalink: /talks/openings
 tags:
   - ML and DL
