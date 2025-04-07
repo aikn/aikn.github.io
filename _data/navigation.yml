@@ -4,10 +4,10 @@ main:
     url: /teaching/
 
   - title: "Talks"
-    url: /cv/
-
-  - title: "Notes"
     url: /talks/
+
+  - title: "Blog"
+    url: /log/
 
   # - title: "Awards & Honors"
   #   url: /awards/
