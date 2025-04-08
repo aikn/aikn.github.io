@@ -27,20 +27,21 @@ There will be a heavy amount of programming in this line of work with significan
   * Reserved to those with strong relevant background and can work independently on these topics.
 
 ### Collaborators and visitors (academic and industry)
-Ongoing doctoral students enrolled elsewhere or those working in the industry who wish to learn and explore any new topic may please drop a note and we can chat. It might be possible to cover some costs if it requires an extended stay at the campus. Those with very strong skills at building large systems at scale working in the industry interested in exploring a research problem of interest to them or their employer are particularly encouraged.
-  * Please drop a note by email.
+1. Ongoing doctoral students enrolled elsewhere or those working in the industry who wish to learn and explore any new topic may please drop a note and we can chat. It might be possible to cover some costs if it requires an extended stay at the campus. 
+1. Those employed in the industry with very strong skills building large systems at scale interested in exploring a research problem of interest to them or their employer are particularly encouraged.
+> Please drop a note by email and we can set up some time to chat.
 
 ### Post-doctoral candidates
-If found mutually suitable, we can see if available funds can be repurposed to host you in the lab or explore alternative avenues for funding your stay. There is no restriction on topics but something close to my areas of interest would be nice. Candidates are expected to work independently as peers with other faculty.
-  * Please drop a note by email and we can set up some time to discuss. 
+1. If found mutually suitable, we can see if available funds can be repurposed to host you in the lab or explore alternative avenues for funding your stay. There is no restriction on topics but something close to my areas of interest would be nice. Candidates are expected to work independently as peers with other faculty.
+> Please drop a note by email and we can set up some time to discuss. 
 
 ### Doctoral candidates
-Currently there is one open position and the topic can be anything around general ML/DL/RL or applications to NLP/Speech, information extraction or retrieval, etc. The admission process is as laid down by the institute and is supported by the university stipend. However, there is an option to use alternative sources of funding to top-up the university stiped to be on par with the highest granted in the country (possibly PMRF) and for exceptional cases match industry salary of engineers with similar skills.
-Part-time PhD for those working in the industry is also an option and highly encouraged for very motivated cadidates with systems/engineering/product experience.
-  * Please fill [this form](shorturl.at/BCYl3) and drop a note by email and we can set up some time to discuss further.
+1. Currently there is one open position and the topic can be anything around general ML/DL/RL or applications to NLP/Speech, information extraction or retrieval, etc. The admission process is as laid down by the institute and is supported by the university stipend. However, there is an option to use alternative sources of funding to top-up the university stiped to be on par with the highest granted in the country (possibly PMRF) and for exceptional cases match industry salary of engineers with similar skills.
+1. Part-time PhD for those working in the industry is also an option and highly encouraged for very motivated cadidates with systems/engineering/product experience.
+> Please fill [this form](shorturl.at/BCYl3) and drop a note by email and we can set up some time to discuss further.
 
 ### Students not enrolled at IIIT-H
 If you have strong skills relevant to areas of interest listed above and can work with us for a considerable period, please consider applying for one of the following positions. Unfortunately, engagements shorter than 6 months are not possible at this time.
   + Internship or thesis project: Admits those enrolled in undergraduate or masters programs with availability for 6 months or longer.
   + Pre-doctoral or research assistants: Must have finished undergraduate program and available for at least a year of work. Serves as a gap year for those exploring opportunities. Pre-doctoral are typically those interested in a PhD program at IIIT Hyderabad or elsewhere while research assistants might be preparing for industry jobs as well and keen on developing strong engineering skills or alternatively industry folks looking for a gap to explore science-heavy roles.
-  * Please fill [this form](shorturl.at/BCYl3), no email needed. Applications applied through the form will be processed by the team at regular cadence.
+> Please fill [this form](shorturl.at/BCYl3), no email needed. Applications applied through the form will be processed by the team at regular cadence.
