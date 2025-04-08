@@ -42,8 +42,8 @@ There will be a heavy amount of programming in this line of work with significan
 
 ### Students not enrolled at IIIT-H
 If you have strong skills relevant to areas of interest listed above and can work with us for a considerable period, please consider applying for one of the following positions. Unfortunately, engagements shorter than 6 months are not possible at this time. There are two avenues depending on the candidate's situtation.
-1. Internship or thesis project: Admits those enrolled in undergraduate or masters programs with availability for 6 months or longer.
 1. Pre-doctoral or research assistants: Must have finished undergraduate program and available for at least a year of work. Serves as a gap year for those exploring opportunities. 
   * Pre-doctoral are typically those interested in a PhD program at IIIT Hyderabad or elsewhere.
   * Research assistantships are for those keen on developing strong engineering/science skills for industry jobs or alternatively for those already employed in the industry looking for a gap to explore science-heavy roles.
+1. Internship or thesis project: Admits those enrolled in undergraduate or masters programs with availability for 6 months or longer.
 > Please fill [this form](https://shorturl.at/BCYl3), no email needed. Applications applied through the form will be processed by the team at regular cadence.
