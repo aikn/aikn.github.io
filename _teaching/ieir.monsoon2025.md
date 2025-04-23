@@ -4,6 +4,7 @@ collection: teaching
 date: 2024-01-25
 teaser:
 permalink: /talks/ieir2025monsoon
+author_profile: false
 tags:
   - information extraction retrieval
   - web search
