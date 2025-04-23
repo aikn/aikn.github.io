@@ -4,6 +4,7 @@ collection: talks
 date: 2024-04-06
 teaser: seeking students and collaborators
 permalink: /talks/openings
+author_profile: false
 tags:
   - ML and DL
   - Speech and NLP
