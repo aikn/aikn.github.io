@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Update: I will be joining the faculty at IIIT Hyderabad in July 2025. Please consider applying for any relevant open positions detailed [here](talks/openings).
-
-My interests lie in machine learning and its applications to various perceptory and behavioral data including vision, language, speech, robotics and search. 
-I am with Amazon while in the past I worked with a startup (Cube26 later acquired by PayTM) and taught at a university (IIT-BHU, Varanasi). Before that I worked with SIERRA/INRIA in Paris and with MLS/XRCE in Grenoble towards a doctoral degree defending it in February of 2014 graduating from the University of Paris. I was advised by [Cedric](http://www0.cs.ucl.ac.uk/staff/c.archambeau/), [Francis](https://www.di.ens.fr/~fbach/) and [Guillaume](https://gbouchar.github.io/) and even earlier worked with [Edmond](http://morpheo.inrialpes.fr/people/Boyer/) for my masters.
+I am an assistant professor at IIIT Hyderabad associated with the Language Technologies Research Center. My interests lie in machine learning and its applications to various perceptory and behavioral data including vision, language, speech, robotics and search. 
+In the past I was Amazon before that a startup (called Cube26 later acquired by PayTM) and before that taught at a university (IIT-BHU, Varanasi). Before that I worked with SIERRA/INRIA in Paris and with MLS/XRCE in Grenoble towards a doctoral degree defending it in February of 2014 graduating from the University of Paris. I was advised by [Cedric](http://www0.cs.ucl.ac.uk/staff/c.archambeau/), [Francis](https://www.di.ens.fr/~fbach/) and [Guillaume](https://gbouchar.github.io/) and even earlier worked with [Edmond](http://morpheo.inrialpes.fr/people/Boyer/) for my masters.
 [Short bio](contact/).
 
 Education

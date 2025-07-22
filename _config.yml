@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Anil Nelakanti"
 title_separator          : "-"
 name                     : &name "Anil Nelakanti"
-description              : &description "Applied science at Amazon"
+description              : &description "CS at IIITH"
 url                      : https://aikn.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aikn/aikn.github.io"
@@ -84,11 +84,11 @@ analytics:
 author:
   name             : "Anil Nelakanti"
   avatar           : "pasp.png" # "bio-photo.jpg" # "profile.jpeg"
-  bio              : "ML & DL mostly applied to NLP and speech / some multi-agent simulations"
-  location         : "Bangalore, India"
+  bio              : "Assistant Professor, IIIT Hyderabad "
+  location         : "F5 Kohli Center on Intelligent Systems, IIITH, Gachibowli, HYD TG IN"
   employer         : #""
   googlescholar    : #"https://scholar.google.com/citations?hl=en&user=Dx9aVjgAAAAJ"
-  email            : "first.last@gmail.com"
+  email            : "akn@iiit.ac.in"
   uri              : 
   bitbucket        :
   codepen          :
