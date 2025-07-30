@@ -1,7 +1,7 @@
 ---
 title: 'Open positions'
 collection: talks
-date: 2024-04-06
+date: 2025-07-30
 teaser: seeking students and collaborators
 permalink: /log/openings
 author_profile: false
