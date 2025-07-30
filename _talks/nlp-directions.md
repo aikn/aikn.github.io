@@ -3,7 +3,7 @@ title: 'Some NLP results'
 collection: talks
 date: 2024-01-25
 teaser: and MT/TTS directions
-permalink: /talks/nlp-directions
+permalink: /log/nlp-directions
 author_profile: false
 tags:
   - MT
