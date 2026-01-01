@@ -36,13 +36,13 @@ Publications (and the unpublished)
 Patents
 ------
 ### Filed and granted
-* _Salient region detection in digital entertainment content_, granted in US to Amazon Technologies.
-* _Audio-lip movement correlation measurement for dubbed content_, granted in US to Amazon Technologies.
-* _Emotion mismatch detection for autodubs_, granted in US to Amazon Technologies.
-* _Song generation using neural network_ granted in US to Amazon Technologies.
-* _Voice content selection for video content_, filed in US to Amazon Technologies.
-* _Automated quality assessment of translations_, granted in US to Amazon Technologies.
-* _Language model with structured penalty_, granted in US and EU to Xerox Corp.
+* _Salient region detection in digital entertainment content_, granted in US to Amazon.
+* _Audio-lip movement correlation measurement for dubbed content_, granted in US to Amazon.
+* _Emotion mismatch detection for autodubs_, granted in US to Amazon.
+* _Song generation using neural network_ granted in US to Amazon.
+* _Voice content selection for video content_, filed in US to Amazon.
+* _Automated quality assessment of translations_, granted in US to Amazon.
+* _Language model with structured penalty_, granted in US and EU to Xerox.
 
 ### Filed and pending
 * _Language agnostic song detection and identification_, filed in US.
