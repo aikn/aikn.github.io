@@ -21,6 +21,8 @@ Education
 
 Publications (and the unpublished)
 ----
+* _When Annotators Disagree: A Principled Approach to Learning with Noisy Labels_ with Bucarelli Maria Sofia, Purifacto Antonio, Lucas Cassano, Andrea Bacciu, Federico Siciliano, Amin Mantrach, and Fabrizio Silvestri in TAI 2026.
+* _The Majority Vote Paradigm Shift: When Popular Meets Optimal_ with Bucarelli Maria Sofia, Purifacto Antonio, Andrea Bacciu, Amin Mantrach, and Fabrizio Silvestri in AISTATS 2026.
 * _ParrotTTS: Text-to-speech synthesis exploiting disentangled self-supervised representations_ with Neil Shah, Saiteja Kosgi, Vishal Tambrahallia, Neha Sahipjohn, Niranjan Pedanekar, and Vineet Gandhi in EACL Conference 2024. [On Arxiv](https://arxiv.org/abs/2303.01261v2).
 * _Empathic machines: using intermediate features as levers to emulate emotions in text-to-speech system_ with Saiteja Kosgi, Sarath Sivaprasad, Niranjan Pedanekar, Vineet Gandhi in NAACL Conference 2022 [On ACL](https://aclanthology.org/2022.naacl-main.26/).
 * _Interactive post-editing for verbosity controlled translation_ with Prabhakar Gupta, Anil Nelakanti, Grant M. Berry, Abhishek Sharma, in COLING Conference, 2022. [On ACL](https://aclanthology.org/2022.coling-1.454/).
