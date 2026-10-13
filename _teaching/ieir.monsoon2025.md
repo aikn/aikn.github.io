@@ -1,13 +1,16 @@
 ---
-title: 'CSE474 | Monsoon 2025 IIITH | Information extraction and retrieval'
+title: 'CS4406 | Monsoon 2025 IIITH | Information extraction and retrieval'
 collection: teaching
 date: 2024-01-25
 teaser:
-permalink: /talks/ieir2025monsoon
+permalink: /talks/cs4406-m25
 author_profile: false
 tags:
-  - information extraction retrieval
-  - web search
+  - Information Retrieval
+  - Web Search
+  - ML
+  - AI
+  - Systems
 ---
 
 * Unit 1: Introduction to Information retrieval, Information Extraction and Information Access systems. (6 hours)
